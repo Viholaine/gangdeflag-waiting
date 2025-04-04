@@ -15,7 +15,7 @@ function App() {
           </div>
           
           <p className="text-xl md:text-2xl text-primary/80 mb-12">
-            HEY<br/>
+            HEY,<br/>
             On arrive bientôt !! <br/ ><br/>
             Une gang unique de fanions, qui claquent au vent, faits dans le nord de la France.
           </p>
